@@ -1,0 +1,14 @@
+{
+    "CodeSha256": "/jEid8VQLIM3tNHkB5nDTLGZxnQ7ebUla68AEvWJSvQ=", 
+    "FunctionName": "popularAnswers", 
+    "CodeSize": 832832, 
+    "MemorySize": 512, 
+    "FunctionArn": "arn:aws:lambda:ap-southeast-2:968431553431:function:popularAnswers", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::968431553431:role/learnjs_lambda_exec", 
+    "Timeout": 5, 
+    "LastModified": "2017-10-06T07:18:07.831+0000", 
+    "Handler": "index.popularAnswers", 
+    "Runtime": "nodejs4.3", 
+    "Description": ""
+}
